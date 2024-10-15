@@ -34,6 +34,7 @@ like-minded coders. Let's build something amazing together!: <br> <br>
 <p align="center"> <img width="200px" src="https://komarev.com/ghpvc/?username=aman-g-upta&label=Profile%20views&color=0e75b6&style=flat" alt="aman-g-upta" /> </p>
 <!--line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <h1 >👩‍💻 About me : </h1>
  🌿 Hello, I'm Aman Gupta, currently a 3rd-year CSE student @PRP.
 <br><br>
@@ -55,8 +56,8 @@ like-minded coders. Let's build something amazing together!: <br> <br>
 <!--Languages & tools-->
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"> Languages and Tools</h1>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,express,mongodb,c,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,c++" /><br>
 </div>
 
 <br>
@@ -66,13 +67,13 @@ like-minded coders. Let's build something amazing together!: <br> <br>
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neeru24&layout=compact&theme=tokyonight&langs_count=10&card_width=445)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aman&layout=compact&theme=tokyonight&langs_count=10&card_width=445)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--stats-->
-<!--<h1 align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45"> GitHub Stats </h1>
+<!--<h1 align="left"><img src="https://github.com/Aman/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45"> GitHub Stats </h1>
 
 Peek into my GitHub stats to check out my digital journey! <br> <br>
-<a href="https://github.com/Ramsey99/github-readme-stats"><img width=100% src="https://github-profile-trophy.vercel.app/?username=neeru24&theme=radical&no-frame=true&no-bg=true&margin-w=4"></a>
+<a href="https://github.com/Ramsey99/github-readme-stats"><img width=100% src="https://github-profile-trophy.vercel.app/?username=aman&theme=radical&no-frame=true&no-bg=true&margin-w=4"></a>
 
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman-g-upta&show_icons=true&locale=en&layout=compact" alt="aman-g-upta" /></p>
