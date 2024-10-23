@@ -88,7 +88,7 @@ Peek into my GitHub stats to check out my digital journey! <br> <br>
 <!-- <a href="https://badgr.com/public/assertions/MoniO1YZRcKDRFFguVV9Mg?identity__email=amangupta08007@gmail.com">
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Postman%20White.png" width="100px" height="100px" /> -->
 
- <a href="https://badgr.com/public/assertions/MoniO1YZRcKDRFFguVV9Mg?identity__email=amangupta08007%40gmail.com">
+ <a href="https://badgr.com/public/assertions/MoniO1YZRcKDRFFguVV9Mg?identity__email=amangupta08007@gmail.com">
 <img src="https://raw.githubusercontent.com/Aman-G-upta/Aman-G-upta/main/Assets/Postman%20White.png" width="100px" height="100px" />
 </a>
 <!-- <a href="#">
