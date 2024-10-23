@@ -83,6 +83,25 @@ Peek into my GitHub stats to check out my digital journey! <br> <br>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aman-g-upta&show_icons=true&locale=en" alt="aman-g-upta" /></p>-->
 
+## Certification Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<!-- <a href="https://badgr.com/public/assertions/MoniO1YZRcKDRFFguVV9Mg?identity__email=amangupta08007@gmail.com">
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Postman%20White.png" width="100px" height="100px" /> -->
+
+ <a href="https://badgr.com/public/assertions/MoniO1YZRcKDRFFguVV9Mg?identity__email=amangupta08007%40gmail.com">
+<img src="https://raw.githubusercontent.com/Aman-G-upta/Aman-G-upta/main/Assets/Postman%20White.png" width="100px" height="100px" />
+</a>
+<!-- <a href="#">
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/Hand-on%20Snowflake.png" width="115px" height="108px" />
+<a href="#">
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/Hands-on%20collab.png" width="110px" height="108px" />
+<a href="https://www.credly.com/badges/2d4bc39d-f0d9-4c01-9a34-451044850f9b/public_url">
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/GitHub%20Foundation.png" width="100px" height="105px" />
+<a href="https://www.credly.com/badges/21b16046-9856-4432-b4e3-408f9a6e71bb/public_url">
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/github-copilot.png" width="105px" height="105px" /> -->
+</div>
+</details> 
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=aman-g-upta&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/aman-g-upta)  
 <br>  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aman-g-upta&theme=tokyonight)](https://git.io/streak-stats)  
