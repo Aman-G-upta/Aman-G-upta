@@ -100,7 +100,7 @@ Peek into my GitHub stats to check out my digital journey! <br> <br>
 <a href="https://www.credly.com/badges/21b16046-9856-4432-b4e3-408f9a6e71bb/public_url">
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/github-copilot.png" width="105px" height="105px" /> -->
 </div>
-</details> 
+</details> <br> <br> <br>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=aman-g-upta&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/aman-g-upta)  
 <br>  
