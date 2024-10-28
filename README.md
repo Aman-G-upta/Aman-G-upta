@@ -91,6 +91,21 @@ Peek into my GitHub stats to check out my digital journey! <br> <br>
  <a href="https://badgr.com/public/assertions/MoniO1YZRcKDRFFguVV9Mg?identity__email=amangupta08007@gmail.com">
 <img src="https://raw.githubusercontent.com/Aman-G-upta/Aman-G-upta/main/Assets/Postman%20White.png" width="100px" height="100px" />
 </a>
+ <a href="https://badgr.com/public/assertions/MoniO1YZRcKDRFFguVV9Mg?identity__email=amangupta08007@gmail.com">
+<img src="https://raw.githubusercontent.com/Aman-G-upta/Aman-G-upta/main/Assets/Postman%20White.png" width="100px" height="100px" />
+</a>
+ <a href="https://badgr.com/public/assertions/MoniO1YZRcKDRFFguVV9Mg?identity__email=amangupta08007@gmail.com">
+<img src="https://raw.githubusercontent.com/Aman-G-upta/Aman-G-upta/main/Assets/Postman%20White.png" width="100px" height="100px" />
+</a>
+ <a href="https://badgr.com/public/assertions/MoniO1YZRcKDRFFguVV9Mg?identity__email=amangupta08007@gmail.com">
+<img src="https://raw.githubusercontent.com/Aman-G-upta/Aman-G-upta/main/Assets/Postman%20White.png" width="100px" height="100px" />
+</a>
+ <a href="https://badgr.com/public/assertions/MoniO1YZRcKDRFFguVV9Mg?identity__email=amangupta08007@gmail.com">
+<img src="https://raw.githubusercontent.com/Aman-G-upta/Aman-G-upta/main/Assets/Postman%20White.png" width="100px" height="100px" />
+</a>
+ <a href="https://badgr.com/public/assertions/MoniO1YZRcKDRFFguVV9Mg?identity__email=amangupta08007@gmail.com">
+<img src="https://raw.githubusercontent.com/Aman-G-upta/Aman-G-upta/main/Assets/Postman%20White.png" width="100px" height="100px" />
+</a>
 <!-- <a href="#">
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/Hand-on%20Snowflake.png" width="115px" height="108px" />
 <a href="#">
