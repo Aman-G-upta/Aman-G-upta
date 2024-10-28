@@ -83,7 +83,7 @@ Peek into my GitHub stats to check out my digital journey! <br> <br>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aman-g-upta&show_icons=true&locale=en" alt="aman-g-upta" /></p>-->
 
-## Certification Badges 🪶
+## GSSOC(24) Badges 🪶
 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard?year=2024">
 <img src="https://gssoc.girlscript.tech/badges/postman.png" width="100px" height="100px" />
