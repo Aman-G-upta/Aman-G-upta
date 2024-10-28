@@ -112,12 +112,24 @@ Peek into my GitHub stats to check out my digital journey! <br> <br>
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/github-copilot.png" width="105px" height="105px" /> 
 </div>-->
 </details> <br> <br> 
-
+<!--
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=aman-g-upta&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/aman-g-upta)  
-<br>  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aman-g-upta&theme=tokyonight)](https://git.io/streak-stats)  
 <br>
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-g-upta&langs_count=10&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-g-upta&langs_count=10&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />-->
+<br>
+<div align="center">
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aman-G-upta&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aman-G-upta&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aman-G-upta&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aman-G-upta&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aman-G-upta&theme=radical&utcOffset=8">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=Aman-G-upta&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-G-upta&theme=radical">
+
+</div><br>
+
 
 
 
