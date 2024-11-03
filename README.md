@@ -66,7 +66,7 @@ like-minded coders. Let's build something amazing together!: <br> <br>
 
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
+<br>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aman&layout=compact&theme=tokyonight&langs_count=10&card_width=445)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--stats-->
@@ -82,7 +82,10 @@ Peek into my GitHub stats to check out my digital journey! <br> <br>
 <br>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aman-g-upta&show_icons=true&locale=en" alt="aman-g-upta" /></p>-->
+[![An image of @amangupta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amangupta)](https://holopin.io/@amangupta)
 
+
+<br>
 ## GSSOC(24) Badges 🪶
 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard?year=2024">
