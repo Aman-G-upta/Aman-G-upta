@@ -95,7 +95,7 @@ Peek into my GitHub stats to check out my digital journey! <br> <br>
   <img src="https://gssoc.girlscript.tech/badges/3.png" width="100px" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/4.png" width="100px" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/5.png" width="100px" height="100px" />
-<!--   <img src="https://gssoc.girlscript.tech/badges/6.png" width="105px" height="105px" /> -->
+  <img src="https://gssoc.girlscript.tech/badges/6.png" width="105px" height="105px" />
 <!--   <img src="https://gssoc.girlscript.tech/badges/7.png" width="100px" height="100px" /> -->
 <!--   <img src="https://gssoc.girlscript.tech/badges/8.png" width="100px" height="100px" /></a> -->
 </div>
