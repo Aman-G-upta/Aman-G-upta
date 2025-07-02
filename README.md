@@ -93,6 +93,19 @@ Peek into my GitHub stats to check out my digital journey! <br> <br>
     🥳 Ranked #70 in GSSoC 2024 | 📈 43 Merged PRs | 🏆 Total Score: 1750
   </h3>
 
+
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="90px" height="90px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="90px" height="90px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="90px" height="90px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="90px" height="90px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="90px" height="90px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="90px" height="90px" />
+<!--     <img src="https://github.com/ananyag309/ananyag309/blob/main/Conqueror%20Badge.png" width="90px" height="90px" /> -->
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="90px" height="90px" />
+<!--     <img src="https://github.com/neeru24/Connect_icons/blob/main/Hack-Web3Conf%202024%20Badge%20(2).png" width="90px" height="90px" /> -->
+  </div>
+
 <!--<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard?year=2024">
 <img src="https://gssoc.girlscript.tech/badges/postman.png" width="100px" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/1.png" width="100px" height="100px" />
@@ -101,7 +114,8 @@ Peek into my GitHub stats to check out my digital journey! <br> <br>
   <img src="https://gssoc.girlscript.tech/badges/4.png" width="100px" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/5.png" width="100px" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/6.png" width="105px" height="105px" />
-  <img src="https://github.com/neeru24/Connect_icons/blob/main/Hack-Web3Conf%202024%20Badge%20(2).png" width="90px" height="90px" />-->
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="90px" height="90px" />
+  <img src="https://github.com/Aman-G-upta/Connect_icons/blob/main/Hack-Web3Conf%202024%20Badge%20(2).png" width="90px" height="90px" />-->
 <!--   <img src="https://gssoc.girlscript.tech/badges/7.png" width="100px" height="100px" /> -->
 <!--   <img src="https://gssoc.girlscript.tech/badges/8.png" width="100px" height="100px" /></a> -->
 <!--</div>
