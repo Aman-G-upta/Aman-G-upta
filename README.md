@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Welcome+to+my+GitHub!;Diploma+Student+in+CSE;Proficient+in+C%2B%2B,+C,+and+Java;Front-End+Developer+%7C+HTML+%26+CSS;Passionate+about+Technology!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Welcome+to+my+GitHub!;B.E.+Student+in+IT;Proficient+in+C%2B%2B,+C,+and+Java;MERN+Stack+Developer;Passionate+about+Technology!)](https://git.io/typing-svg)
 
 
 
@@ -36,7 +36,7 @@ like-minded coders. Let's build something amazing together!: <br> <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h1 >👩‍💻 About me : </h1>
- 🌿 Hello, I'm Aman Gupta, currently a 3rd-year CSE student @PRP.
+ 🌿 Hello, I'm Aman Gupta, currently a 2nd-year IT student @Thakur College of Engineering and Technology.
 <br><br>
 ✨ Passionate about full-stack web development 🌐.
 <br><br>
