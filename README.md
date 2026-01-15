@@ -26,7 +26,7 @@ like-minded coders. Let's build something amazing together!: <br> <br>
 <p align="center">
 <a href="https://linkedin.com/in/-amangupta-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-g-upta" height="40" width="50" /></a>
 <a href="" target="blank"><img align="center" src="https://manu-karenite.github.io/portfolio/img/cn.png" alt="coding ninjas" height="40" width="50" /></a>
-<a href="" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" alt="leetcode" height="40" width="50" /></a>
+<a href="https://leetcode.com/u/Aman_G_upta/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" alt="leetcode" height="40" width="50" /></a>
 
 </p>
 
