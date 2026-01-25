@@ -54,10 +54,18 @@ like-minded coders. Let's build something amazing together!: <br> <br>
 
 
 <!--Languages & tools-->
-<h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"> Languages and Tools</h1>
+<h2 align="center">🚀 Languages, Tools and Technologies</h2>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode" />
-    <img src="https://skillicons.dev/icons?i=python,c++" /><br>
+
+| Category | Technologies |
+|----------|-------------|
+| 💻 Programming Languages | <img src="https://skillicons.dev/icons?i=cpp,python" /> |
+| 🎨 Frontend Development | <img src="https://skillicons.dev/icons?i=html,css,js,react" /> |
+| 🛠 Backend Development | <img src="https://skillicons.dev/icons?i=nodejs,express" /> |
+| 🗄 Database | <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> |
+| 🔧 Developer Tools | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> |
+
 </div>
 
 <br>
